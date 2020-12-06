@@ -1,7 +1,8 @@
-header{
+body{
     background-image: url(./rasver.jpg);
     background-size: cover;
     margin: 0;
+    background-repeat: no-repeat;
 }
 nav ul li{
     display: inline;
