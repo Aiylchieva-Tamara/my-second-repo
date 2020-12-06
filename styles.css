@@ -33,7 +33,8 @@ div{
     width: 500px;
     height: 200px;
 }
-main h3{
+main h2{
     text-align: center;
     color: white;
+    margin-top: 70px;
 }
